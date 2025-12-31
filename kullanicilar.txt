@@ -1,0 +1,11 @@
+ibrahim,dik,ibo@gmail.com,İbrahim1234*
+metehan,bucan,mete@gmail.com,Metehan123*
+emre,taşdemir,emre@gmail.com,Emre123*
+taner,çevik,taner@gmail.com,Taner1907*
+recep,dik,recep@gmail.com,Recep123*
+esra,gürbüz,esra@gmail.com,Esra1234*
+hale,dileklli,hale@gmail.com,Hale1234*
+adil,efe,adil@gmail.com,Adil1234*
+sıla,öztürk,sila@gmail.com,Silq1234*
+büşra,karlı,busra@gmail.com,Busra123*
+mete,çelik,metehan@gmail.com,Mete1234*
